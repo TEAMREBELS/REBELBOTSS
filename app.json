@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAMREBELS/REBELBOT/",
-  "website": "https://github.com/TEAMREBELS/REBELBOT/",
+  "repository": "https://github.com/TEAMREBELS/REBELBOTS",
+  "website": "https://github.com/TEAMREBELS/REBELBOTS",
   "success_url": "https://t.me/REBELBOT_SUPPORT",
   "env": {
     "ENV": {
@@ -76,17 +76,17 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/darkbuildpack/buildpack-p7zip.git"
   },{
-    "url":"https://github.com/amivin/aria2-heroku.git"
+    "url":"https://github.com/darkbuildpack/buildpack-chromedriver.git"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+    "url":"https://github.com/darkbuildpack/heroku-buildpack-apt.git"
   },{
-     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+     "url": "https://github.com/darkbuildpack/heroku-buildpack-google-chroml.git"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+    "url":"https://github.com/darkbuildpack/aria2-heroku.git"
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "https://github.com/darkbuildpack/buildpack-ffmpeg.git"
   },{
     "url": "heroku/python"
   }]
