@@ -71,6 +71,3 @@ urbandict
 validators
 wikipedia
 tswift
-youtube-dl
-youtube-search-python
-youtube-search>
