@@ -66,7 +66,7 @@ urbandict
 validators
 wand
 
-git+https://github.com/LonamiWebs/Telethon@v1.24
+git+https://github.com/REBEL75/Telethon
 git+https://github.com/HellBoy-OP/py-googletrans
 git+https://github.com/HellBoy-OP/Wikipedia
 git+https://github.com/HellBoy-OP/yt-fork
