@@ -60,13 +60,13 @@ selenium
 speedtest-cli
 sqlalchemy==1.3.23
 telegraph
+telethon==1.24.0
 twitter_scraper
 tswift
 urbandict
 validators
 wand
 
-git+https://github.com/REBEL75/Telethon
 git+https://github.com/HellBoy-OP/py-googletrans
 git+https://github.com/HellBoy-OP/Wikipedia
 git+https://github.com/HellBoy-OP/yt-fork
