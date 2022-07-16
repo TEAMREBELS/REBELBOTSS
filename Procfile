@@ -1,1 +1,1 @@
-worker: bash REBELBOT-3.0
+worker: bash DarkWeb
