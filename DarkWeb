@@ -37,7 +37,8 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $DarkPATH
-    echo " START DARKWEB  "
+    echo "█▀▄ ▄▀█ █▀█ █▄▀ █░█░█ █▀▀ █▄▄   █▄▄ █▀█ ▀█▀
+█▄▀ █▀█ █▀▄ █░█ ▀▄▀▄▀ ██▄ █▄█   █▄█ █▄█ ░█░"
 
     python3 .../setup/updater.py .../requirements.txt requirements.txt
     python3 -m DarkWeb
