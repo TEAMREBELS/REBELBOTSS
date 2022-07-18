@@ -30,15 +30,15 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    DarkPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    DarkWebPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $DarkPATH
+    cd $DarkWebPATH
     echo "█▀▄ ▄▀█ █▀█ █▄▀ █░█░█ █▀▀ █▄▄   █▄▄ █▀█ ▀█▀
-█▄▀ █▀█ █▀▄ █░█ ▀▄▀▄▀ ██▄ █▄█   █▄█ █▄█ ░█░"
+          █▄▀ █▀█ █▀▄ █░█ ▀▄▀▄▀ ██▄ █▄█   █▄█ █▄█ ░█░"
 
     python3 .../setup/updater.py .../requirements.txt requirements.txt
     python3 -m DarkWeb
