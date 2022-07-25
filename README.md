@@ -12,7 +12,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TEAMDARKWEB/DarkWebBot/blob/main/LICENSE)   
 [![Sparkline](https://stars.medv.io/TEAMDARKWEB/DarkWebBot.svg)](https://stars.medv.io/TEAMDARKWEB/DarkWebBot)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/REBEL75/REBELUSERBOT/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAMDARKWEB/DarkWebBot/dashboard)
 [![HitCount](http://hits.dwyl.com/TEAMDARKWEB/DarkWebBot.svg)](http://hits.dwyl.com/TEAMDARKWEB/DarkWebBot)
 
 
