@@ -1,6 +1,6 @@
 {
   "name": "Tᕼᗴ ᖇᗴᗷᗴᒪᗷOT",
-  "description": "The REBELBOT made by @REBEL_IS_OP special thanks to respective mafiabot owner @H1M4N5HU0P. Join for updates related info @REBELBOT_SUPPORT",
+  "description": "The DarkWeb Bot made by @REBEL_IS_OP . Join for updates related info @DARK_WEB_UB ",
   "logo": "https://telegra.ph/file/f16f79ce4055b0fe0511d.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAMREBELS/REBELBOTS",
-  "website": "https://github.com/TEAMREBELS/REBELBOTS",
-  "success_url": "https://t.me/REBELBOT_SUPPORT",
+  "repository": "https://github.com/TEAMDARKWEB/DarkWebBot",
+  "website": "https://github.com/TEAMDARKWEB/DarkWebBot",
+  "success_url": "https://t.me/DARK_WEB_UB",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -19,18 +19,18 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
+      "value": "./DarkWeb/DOWNLOADS/",
       "required": false
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
-    "COMMAND_HAND_LER": {
+    "HNDLR": {
       "description": "Your command handler. Default is , . + ! * ' ",
       "value": "."
     },
-    "REBELBOT_ID": {
+    "DARKWEB_ID": {
       "description": "Create a private channel/group add rose then type /id in group.",
       "value": ""
     },
@@ -52,11 +52,11 @@
       "value": "",
       "required": true
     },
-    "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+    "BOT_TOKEN": {
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": ""
     },
-    "TG_BOT_USER_NAME_BF_HER": {
+    "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": ""
     },
