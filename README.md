@@ -1,8 +1,19 @@
+
+[![](https://img.shields.io/badge/DarkWebBot-v0.6-darkblue)](#)
+[![Stars](https://img.shields.io/github/stars/TEAMDARKWEB/DarkWebBot?style=flat-square&color=yellow)](https://github.com/TEAMDARKWEB/DarkWebBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/TEAMDARKWEB/DarkWebBot?style=flat-square&color=orange)](https://github.com/TEAMDARKWEB/DarkWebBot/fork)
+[![Size](https://img.shields.io/github/repo-size/TEAMDARKWEB/DarkWebBot?style=flat-square&color=green)](https://github.com/TEAMDARKWEB/DarkWebBot/)   
+[![Python](https://img.shields.io/badge/Python-v3.10.3-blue)](https://www.python.org/)
+[![CodeFactor](https://www.codefactor.io/repository/github/TEAMDARKWEB/DarkWebBot/badge/main)](https://www.codefactor.io/repository/github/TEAMDARKWEB/DarkWebBot/overview/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TEAMDARKWEB/DarkWebBot/graphs/commit-activity)
+[![Docker Pulls](https://img.shields.io/docker/pulls/theTEAMDARKWEB/DarkWebBot?style=flat-square)](https://img.shields.io/docker/pulls/theTEAMDARKWEB/DarkWebBot?style=flat-square)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TEAMDARKWEB/DarkWebBot)
+[![Contributors](https://img.shields.io/github/contributors/TEAMDARKWEB/DarkWebBot?style=flat-square&color=green)](https://github.com/TEAMDARKWEB/DarkWebBot/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TEAMDARKWEB/DarkWebBot/blob/main/LICENSE)   
+[![Sparkline](https://stars.medv.io/TEAMDARKWEB/DarkWebBot.svg)](https://stars.medv.io/TEAMDARKWEB/DarkWebBot)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/REBEL75/REBELUSERBOT/dashboard)
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/TEAMREBELS/REBELBOT)
-[![HitCount](http://hits.dwyl.com/TEAMREBELS/REBELBOT.svg)](http://hits.dwyl.com/TEAMREBELS/REBELBOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/REBEL_IS_OP)
+[![HitCount](http://hits.dwyl.com/TEAMDARKWEB/DarkWebBot.svg)](http://hits.dwyl.com/TEAMDARKWEB/DarkWebBot)
 
 
 
